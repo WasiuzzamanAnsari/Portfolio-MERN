@@ -25,7 +25,7 @@ This portfolio web app is designed to present your developer profile, technical 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/portfolio-app.git
+git clone https://github.com/WasiuzzamanAnsari/Portfolio-MERN.git
 cd portfolio-app
 cd backend
 npm install
